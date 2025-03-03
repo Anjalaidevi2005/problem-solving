@@ -65,3 +65,6 @@ if(res==n):
 else:
     print("not palindrome")  
 
+
+
+#CHECKING 
