@@ -1,0 +1,2 @@
+s="hello world"[::-1]
+print(s)
